@@ -6,7 +6,9 @@ Set up a basic security monitoring system using Microsoft Sentinel to detect fai
 ### 2. Tools Used  
 - Microsoft Azure  
 - Microsoft Sentinel  
-- Log Analytics Workspace  
+- Log Analytics Workspace
+- Azure data collection rule
+- Geoip mapping
 - Two Windows 10 VMs (Attacker & Victim)
 
 ### 3. Steps  
@@ -19,7 +21,7 @@ Set up a basic security monitoring system using Microsoft Sentinel to detect fai
 -  Observe alerts and incidents triggered by the attack.
 
 ### 4. Result  
-Sentinel successfully detected the failed login attempts and generated alerts, demonstrating how a SOC can identify and respond to threats.
+Sentinel successfully detected the failed login attempts and generated alerts, demonstrating how a SOC can identify and respond to threats.Within an hour of seeting this honeypot minutes i got  over 1000 failed logins.
 
 ### 5. Conclusion  
 This lab shows how Microsoft Sentinel can collect logs, monitor systems, and automatically detect suspicious activity.
