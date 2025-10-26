@@ -1,4 +1,4 @@
-## 🛡️ Project: Microsoft Sentinel Mini SOC Lab
+## 🛡️ Project: Microsoft Sentinel  SOC Lab
 
 ### 1. Objective  
 Set up a basic security monitoring system using Microsoft Sentinel to detect failed login attacks.
