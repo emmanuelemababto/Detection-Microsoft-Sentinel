@@ -26,7 +26,9 @@ Sentinel successfully detected the failed login attempts and generated alerts, d
 ### 5. Conclusion  
 This lab shows how Microsoft Sentinel can collect logs, monitor systems, and automatically detect suspicious activity.
 
-# Screenshots of my results
+# Screenshots of my results of my failed logins 
+
+
 
 
 
